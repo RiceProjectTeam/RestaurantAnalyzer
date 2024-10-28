@@ -1,6 +1,6 @@
-# OpenRice-Crawler
+# Restaurant Analyzer
 
-is a crawler written in Python which allows the user to download OpenRice's restaurant data, funnel through them using various filters, rank them by using self-determined weighted attributes, and find restaurants similar to each other.
+is a crawler written in Python which allows the user to download the Hong Kong restaurant platform -- OpenRice's restaurant data, funnel through them using various filters, rank them by using self-determined weighted attributes, and find restaurants similar to each other.
 
 Uses:
 
